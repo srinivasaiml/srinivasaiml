@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @srinivasaiml
-- 👀 I’m interested in web developing 
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me to mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...hard work never fails !
+👋 Hi, I’m Srinivas Patchipala (@srinivasaiml)  
+🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator**  
 
-<!---
-srinivasaiml/srinivasaiml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **web development, AI, and machine learning**  
+- 🌱 Currently learning **new technologies** to build innovative solutions  
+- 💡 Exploring **full-stack development** and **AI-driven applications**  
+- 💞️ Open to collaborating on **exciting projects** and **tech discussions**  
+- 📫 Reach me via **email:** psrinivas9381@gmail.com  
+- ⚡ Fun fact: **Hard work never fails!** 💪  
+
+---
+
+✨ **Let’s Connect & Build Something Awesome Together!** ✨  
