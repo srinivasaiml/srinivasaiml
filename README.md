@@ -18,6 +18,8 @@
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=srinivasaiml&theme=dark)](https://git.io/streak-stats)
 
