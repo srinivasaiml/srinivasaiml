@@ -45,9 +45,8 @@
 ![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=srinivasaiml)
 
+![Snake animation](https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg)
 
-![Snake animation](https://github.com/srinivasaiml/srinivasaiml/blob/output/github-contribution-grid-snake.svg)
 
 
