@@ -17,3 +17,6 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br/>
+### Streek:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=srinivasaiml&theme=dark)](https://git.io/streak-stats)
