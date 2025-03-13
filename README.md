@@ -20,8 +20,10 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br/>
----
----
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,5 +31,18 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasaiml&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=srinivasaiml)
+
+
+![Snake animation](https://github.com/srinivasaiml/srinivasaiml/blob/output/github-contribution-grid-snake.svg)
 
 
