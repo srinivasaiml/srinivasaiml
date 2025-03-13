@@ -1,3 +1,6 @@
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/srinivasaiml&title=Profile%20Views)](https://github.com/srinivasaiml)
+
+
 👋 Hi, I’m Srinivas Patchipala (@srinivasaiml)  
 🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator**  
 
