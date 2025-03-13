@@ -21,7 +21,7 @@
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br/>
 
-### Fun Facts:
+### Badges -->:
 
 ![Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Badge](https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react)
