@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **Hard work never fails!** 💪  
 
 ---
-
+<img src="https://img.shields.io/badge/Profile%20Views-XXX-blue" alt="Profile Views"/>
 ✨ **Let’s Connect & Build Something Awesome Together!** ✨  
 ### Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
