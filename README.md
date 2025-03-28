@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/Banner.png" alt="Design & Code Banner"/>
+  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/Banner.png" alt="Design & Code Banner"  width="100%" height="150"/>
 </p>
 
 
