@@ -32,18 +32,27 @@
 <br/>
 </p>
 
-<p align= "right">
+<br>
 
-![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-</p>
+<br>
 
+<br>
 
 
   
 ![Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Badge](https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react)
 ![Badge](https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch)
+
+
+<br>
+
+<br>
+
+
+<br>
 
 
 
@@ -53,6 +62,11 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 
