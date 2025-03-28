@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Design & Code Banner"/>
+  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/Banner.png" alt="Design & Code Banner"/>
 </p>
+
 
 # Hi 👋, I'm Srinivas Patchipala  
 🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator**  
