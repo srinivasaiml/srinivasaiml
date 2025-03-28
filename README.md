@@ -58,6 +58,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="right">
+  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Profile Views" width="150" height="150"/>
+</p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true)](https://git.io/streak-stats)
