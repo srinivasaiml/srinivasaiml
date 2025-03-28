@@ -6,7 +6,7 @@
 🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator**  
 
 <p align="right">
-  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Thinking" width="350" height="350"/>
+  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Thinking" width="250" height="350"/>
 </p>
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/srinivasaiml&title=Profile%20Views)](https://github.com/srinivasaiml)
