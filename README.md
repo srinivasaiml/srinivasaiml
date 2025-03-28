@@ -37,7 +37,7 @@
 ## 📊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark"/>
-  <br>
+  &nbsp; &nbsp;
   <img src="https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true"/>
 </p>
 
