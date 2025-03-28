@@ -32,16 +32,19 @@
 <br/>
 </p>
 
+<p align= "right">
+
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</p>
 
 
 
-<p align ="right">
   
 ![Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Badge](https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react)
 ![Badge](https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch)
 
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,9 +57,6 @@
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasaiml&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
