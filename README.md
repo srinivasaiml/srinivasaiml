@@ -15,7 +15,6 @@
 <img src="C:\Users\P Srinivas\Downloads\think.gif" alt="Profile Views"/>
 ✨ **Let’s Connect & Build Something Awesome Together!** ✨  
 <p align="left">
-### Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
