@@ -12,8 +12,9 @@
 - ⚡ Fun fact: **Hard work never fails!** 💪  
 
 ---
-<img src="https://img.shields.io/badge/Profile%20Views-XXX-blue" alt="Profile Views"/>
+<img src="C:\Users\P Srinivas\Downloads\think.gif" alt="Profile Views"/>
 ✨ **Let’s Connect & Build Something Awesome Together!** ✨  
+<p align="left">
 ### Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -29,18 +30,18 @@
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <br/>
+</p>
 
 
 
 
-
-### Badges :
-
+<p align ="right">
+  
 ![Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Badge](https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react)
 ![Badge](https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch)
 
-
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
