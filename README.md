@@ -6,7 +6,7 @@
 🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator**  
 
 <p align="right">
-  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Thinking" width="250" height="350"/>
+  <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Thinking" width="150" height="150"/>
 </p>
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/srinivasaiml&title=Profile%20Views)](https://github.com/srinivasaiml)
@@ -40,6 +40,7 @@
 ## 📊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark"/>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true"/>
 </p>
 
