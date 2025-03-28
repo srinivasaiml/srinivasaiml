@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **Hard work never fails!** 💪  
 
 ---
-<img src="C:\Users\P Srinivas\Downloads\think.gif" alt="Profile Views"/>
+<img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/think.gif" alt="Profile Views"/>
 ✨ **Let’s Connect & Build Something Awesome Together!** ✨  
 <br>
 <p align="left">
