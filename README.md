@@ -80,9 +80,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/output/snake.svg" alt="Snake animation"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/> </p>
 
 
 ---
