@@ -37,15 +37,14 @@
 
 ---
 
+
 ## 📝 Featured Projects  
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚉 **Smart Home IoT** | Real-time monitoring & automation for homes | Python, Node.js, MQTT, Raspberry Pi |
-| 🤖 **AI Chatbot** | Conversational assistant for websites | Python, TensorFlow, NLU |
-| 📊 **Full-Stack Dashboard** | Analytics dashboard with visualizations | React, Express, MongoDB, D3.js |
+| 📚 [**Aditya Smart Library**](https://adityasmartlibrary.netlify.app/) | Smart library seat & rack management system for efficient usage and tracking | HTML, CSS, JavaScript, Firebase |
+| 🏥 [**Doctor Appointment Booking**](https://srinivasahospital.netlify.app/) | Online system to book doctor appointments with scheduling & notifications | React, Node.js, Express, MongoDB |
 
----
 
 ## 📊 GitHub Stats  
 
