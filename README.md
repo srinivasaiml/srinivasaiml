@@ -1,37 +1,91 @@
-<p align="center"> <img src="https://github.com/srinivasaiml/srinivasaiml/blob/main/Banner.png" alt="Design & Code Banner" width="100%" height="250"/> </p> <h1 align="center">Hi there, I'm Srinivas Patchipala 👋</h1> <p align="center"> <b>AI/ML Enthusiast · Web Developer · IoT Innovator</b> </p>
-🚀 About Me
-🤖 Innovator at heart: Always seeking to solve real-world problems via tech.
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Srinivas%20Patchipala&fontAlign=50&fontSize=45&fontColor=fff&desc=AI%2FML%20Enthusiast%20%7C%20Web%20Developer%20%7C%20IoT%20Innovator&descAlign=50&descSize=20&animation=fadeIn" />
+</p>
 
-👨💻 Web dev, AI, and IoT: My passion and primary toolkit!
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Srinivas+Patchipala+👋;AI%2FML+Enthusiast+%7C+Web+Developer+%7C+IoT+Innovator;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
 
-🔬 Continuous Learner: Constantly exploring new frameworks, languages & ideas.
+---
 
-🤝 Collaborator: Love discussing, building, and sharing ideas with the tech community.
+## 🚀 About Me  
+- 🤖 **Innovator at heart** — solving real-world problems via tech  
+- 🌐 **Web Dev, AI, IoT** — my passion & toolkit  
+- 🔬 **Continuous Learner** — exploring new frameworks, languages & ideas  
+- 🤝 **Collaborator** — love building & sharing with the community  
+- 📧 **Contact me:** [Email Me](mailto:psrinivas9381@gmail.com)  
+- 🌟 **Fun fact:** Hard work never fails!  
 
-📧 Contact me: psrinivas9381@gmail.com
+---
 
-🌟 Fun fact: Hard work never fails!
+## 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-🛠️ Tech Stack & Tools
-<p align="center"> <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> </p>
-📝 Featured Projects
-Project	Description	Tech Stack
-Smart Home IoT	Real-time monitoring & automation for smart homes	Python, Node.js, MQTT, Raspberry Pi
-AI Chatbot	Human-like conversational assistant for any website	Python, TensorFlow, NLU
-Full-Stack Dashboard	Analytics dashboard with rich data visualizations	React, Express, MongoDB, D3.js
-📊 GitHub Stats
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true"/> &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=6&theme=dark"/> </p>
-🏆 Achievements & Badges
-<p align="center"> <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch"/> <img src="https://img.shields.io/badge/IoT-RaspberryPi-green?style=flat-square&logo=raspberrypi"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github"/> <img src="https://img.shields.io/badge/Hackathons-Participant-yellow?style=flat-square&logo=hackclub"/> </p>
-💬 Let's Connect!
-💼 LinkedIn <!-- Add your LinkedIn URL -->
+---
 
-🌐 Portfolio <!-- Add your portfolio or website URL -->
+## 📝 Featured Projects  
 
-📫 psrinivas9381@gmail.com
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚉 **Smart Home IoT** | Real-time monitoring & automation for homes | Python, Node.js, MQTT, Raspberry Pi |
+| 🤖 **AI Chatbot** | Conversational assistant for websites | Python, TensorFlow, NLU |
+| 📊 **Full-Stack Dashboard** | Analytics dashboard with visualizations | React, Express, MongoDB, D3.js |
 
-💡 Programming Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/> </p>
-“Keep building. Keep learning. The best is yet to come!”
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivasaiml&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srinivasaiml&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/IoT-RaspberryPi-green?style=flat-square&logo=raspberrypi"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Hackathons-Participant-yellow?style=flat-square&logo=hackclub"/>
+</p>
+
+---
+
+## 💡 Programming Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
