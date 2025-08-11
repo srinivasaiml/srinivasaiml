@@ -92,6 +92,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasaiml&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
 
 <p align="center">
   <a href="https://skyline.github.com/srinivasaiml/2024">
