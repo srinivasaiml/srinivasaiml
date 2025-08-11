@@ -5,8 +5,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Srinivas+Patchipala+👋;AI%2FML+Enthusiast+%7C+Web+Developer+%7C+IoT+Innovator;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Srinivas+Patchipala+👋;AI%2FML+Enthusiast;Web+Developer;IoT+Innovator;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
