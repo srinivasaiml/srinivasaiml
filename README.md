@@ -88,11 +88,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
-p[align="center"], 
-p[align="center"] img, 
-p[align="center"] svg {
-  cursor: none;
-}
+
 
 
 
