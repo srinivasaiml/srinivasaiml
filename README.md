@@ -43,7 +43,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 📚 [**Aditya Smart Library**](https://adityasmartlibrary.netlify.app/) | Smart library seat & rack management system for efficient usage and tracking | HTML, CSS, JavaScript, Firebase |
-| 🏥 [**Doctor Appointment Booking**](https://srinivasahospital.netlify.app/) | Online system to book doctor appointments with scheduling & notifications | React, Node.js, Express, MongoDB |
+| 🏥 [**Doctor Appointment Booking**](https://srinivas-hospital.netlify.app/) | Online system to book doctor appointments with scheduling & notifications | React, Node.js, Express, MagoDB |
 
 
 ## 📊 GitHub Stats  
