@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Srinivas+Patchipala+👋;AI%2FML+Enthusiast;Web+Developer;IoT+Innovator;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🚀 About Me  
@@ -18,6 +17,10 @@
 - 🤝 **Collaborator** — love building & sharing with the community  
 - 📧 **Contact me:** [Email Me](mailto:psrinivas9381@gmail.com)  
 - 🌟 **Fun fact:** Hard work never fails!  
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=srinivasaiml&label=Profile%20Views&color=blue&style=flat)
+</p>
 
 ---
 
@@ -37,14 +40,17 @@
 
 ---
 
-
 ## 📝 Featured Projects  
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 📚 [**Aditya Smart Library**](https://adityasmartlibrary.netlify.app/) | Smart library seat & rack management system for efficient usage and tracking | HTML, CSS, JavaScript, Firebase |
-| 🏥 [**Doctor Appointment Booking**](https://srinivas-hospital.netlify.app/) | Online system to book doctor appointments with scheduling & notifications | React, Node.js, Express, MagoDB |
+| 🏥 [**Doctor Appointment Booking**](https://srinivas-hospital.netlify.app/) | Online system to book doctor appointments with scheduling & notifications | React, Node.js, Express, MongoDB |
+| 🐍 [**Hand Gesture Snake Game**](https://github.com/srinivasaiml/hand-gesture-snake) | Classic snake game controlled with hand gestures using OpenCV & MediaPipe | Python, OpenCV |
+| ❤️ [**FLAMES Calculator**](https://github.com/srinivasaiml/flames-calculator) | Fun FLAMES relationship calculator | HTML, CSS, JavaScript |
+| 📊 [**Resume ATS Score Checker**](https://github.com/srinivasaiml/resume-ats-checker) | Checks resumes against ATS filters for better job applications | Python, Streamlit |
 
+---
 
 ## 📊 GitHub Stats  
 
@@ -59,14 +65,18 @@
 
 ---
 
-## 🏆 Achievements & Badges  
+## 🏆 Achievements & Trophies  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Web-React-orange?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/AI-DeepLearning-red?style=flat-square&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/IoT-RaspberryPi-green?style=flat-square&logo=raspberrypi"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Hackathons-Participant-yellow?style=flat-square&logo=hackclub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=srinivasaiml&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://srinivasaiml.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:psrinivas9381@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,8 +89,9 @@
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center"> <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/> </p>
-
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/> 
+</p>
 
 ---
 
@@ -88,7 +99,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
-
-
-
-
