@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Srinivas+Patchipala+👋;AI%2FML+Enthusiast;Web+Developer;IoT+Innovator;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🚀 About Me  
@@ -37,72 +36,41 @@
 
 ---
 
+## 🚀 Featured Projects
 
-🚀 Featured Projects
-<table align="center">
-<tr>
-<td width="50%">
-🏥 Doctor Appointment System
-A comprehensive healthcare platform with real-time appointment scheduling and automated notifications
-Tech Stack:
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 [**Doctor Appointment System**](https://srinivas-hospital.netlify.app/) | A comprehensive healthcare platform with real-time appointment scheduling and automated notifications | React.js, Node.js, Express, MongoDB |
+| 📚 [**Aditya Smart Library**](https://adityasmartlibrary.netlify.app/) | Intelligent library management system with seat reservation and inventory tracking | HTML, CSS, JavaScript, Firebase |
+| 🔒 [**Locker Puzzle Game**](https://srinivasaiml.github.io/project/lockergame.html) | Fun interactive locker puzzle game with challenging levels | HTML, CSS, JavaScript |
+| 👑 [**Chess Queen Puzzle**](https://srinivasaiml.github.io/project/queen.html) | A chess-inspired puzzle game built for fun and logic | HTML, CSS, JavaScript |
+| ❤️ [**FLAMES Calculator**](https://srinivasaiml.github.io/project/flames.html) | Fun FLAMES relationship calculator | HTML, CSS, JavaScript |
 
-⚛️ React.js
-🟢 Node.js & Express
-🍃 MongoDB
-🔔 Notification System
+---
 
-</td>
-<td width="50%">
-📚 Aditya Smart Library
-Intelligent library management system with seat reservation and inventory tracking
-Tech Stack:
+## 📊 GitHub Analytics
 
-📱 Responsive Web Design
-🔥 Firebase Backend
-🎨 Modern UI/UX
-📊 Real-time Analytics
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-🎮 Interactive Games Collection
-Building engaging logic and puzzle games
-
-🔒 Locker Puzzle Game
-👑 Chess Queen Puzzle
-❤️ FLAMES Calculator
-
-</td>
-<td width="50%">
-🤖 AI/ML Projects
-Coming Soon
-Working on exciting ML projects:
-
-🧠 Computer Vision Applications
-📈 Predictive Analytics Models
-🗣️ Natural Language Processing
-
-</td>
-</tr>
-</table>
-
-📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivasaiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasaiml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasaiml&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasaiml&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=f093fb&area_color=667eea&area=true&hide_border=true" />
 </p>
 
-🏆 Achievements & Milestones
+---
+
+## 🏆 Achievements & Milestones
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srinivasaiml&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Student-Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚀_AI/ML-Enthusiast-purple?style=for-the-badge"/>
@@ -112,6 +80,8 @@ Working on exciting ML projects:
   <img src="https://img.shields.io/badge/🤝_Open_Source-Contributor-yellow?style=for-the-badge"/>
 </p>
 
+---
+
 ## 💡 Programming Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
@@ -120,8 +90,9 @@ Working on exciting ML projects:
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center"> <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/> </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinivasaiml/srinivasaiml/main/snake.svg"/>
+</p>
 
 ---
 
