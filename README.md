@@ -14,24 +14,22 @@
 </p>
 
 ---
+<!-- Night Owl Image -->
+<div>
+  <img
+    align="right"
+    width="40%"
+    src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
+    alt="Night Owl"
+  />
+</div>
 
 ## 👨‍💻 About Me
 
 <p align="left">
   I am Srinivas Patchipala, an AI/ML enthusiast, full-stack web developer, and IoT innovator passionate about creating practical technology solutions.
 </p>
-
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🌐 Build responsive and user-friendly web applications.
-- 🔌 Explore IoT, automation, and smart technology solutions.
-- 🚀 Enjoy transforming ideas into real-world projects.
-- 📚 Continuously learning new tools, frameworks, and technologies.
-- 🤝 Open to collaboration, internships, and exciting opportunities.
-- 💡 Believe that consistent hard work and learning lead to success.
-- 📧 Contact me at [psrinivas9381@gmail.com](mailto:psrinivas9381@gmail.com).
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
